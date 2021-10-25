@@ -20,7 +20,7 @@ public class Penjual {
       int jumlahTahu = 35;
 
       if (uangMasuk < 2000) {
-        System.out.println("Maaf harga tahu Rp.2.000,-, Uang anda tidak cukup");
+        System.out.println("Maaf harga tahu 2.000, Uang anda tidak cukup");
       }
 
       tampilRak(uangMasuk);
